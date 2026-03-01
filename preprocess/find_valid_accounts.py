@@ -98,7 +98,7 @@ for acc in working_accounts:
     print(f"   Transactions: {acc['transaction_count']}\n")
 
 # Save working accounts to a file
-with open("working_test_accounts.json", "w") as f:
+with open("../jamie/working_test_accounts.json", "w") as f:
     json.dump(working_accounts, f, indent=2)
 
 print("💾 Saved working accounts to 'working_test_accounts.json")

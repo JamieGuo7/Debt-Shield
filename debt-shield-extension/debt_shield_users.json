@@ -1,0 +1,30 @@
+{
+  "Jamie": {
+    "name": "Jamie",
+    "current_savings": 1161.18,
+    "average_income": 560.0,
+    "average_expenses": 439.07,
+    "var_income": 306280.67761052627,
+    "var_expenses": 1323802.0604315794,
+    "credit_limit": 45135135.0,
+    "savings_allocation_pct": 70.0,
+    "savings_goals": [
+      {
+        "name": "Vacation",
+        "target_amount": 4000.0,
+        "priority": 1,
+        "timeframe_months": null
+      }
+    ],
+    "debts": [
+      {
+        "category": "Student Loan",
+        "label": "Mortgage",
+        "total_amount": 33000.0,
+        "monthly_payment": 250.0,
+        "apr": 5.5,
+        "months_remaining": null
+      }
+    ]
+  }
+}

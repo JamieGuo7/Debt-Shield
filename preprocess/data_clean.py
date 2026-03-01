@@ -3,12 +3,12 @@ import json
 import os
 
 # 1. Load the file
-filename = 'all_transactions.json'
+filename = '../data/all_transactions.json'
 with open(filename, 'r') as f:
     data = json.load(f)
 
 # 2. Create a "suitable directory" for your exports
-output_dir = 'data'
+output_dir = '../jamie/data'
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
     print(f"Created directory: {output_dir}")

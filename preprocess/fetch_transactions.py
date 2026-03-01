@@ -93,7 +93,7 @@ if __name__ == "__main__":
                 print(f"    - {f}")
 
         # Save all results
-        with open("all_transactions.json", "w") as f:
+        with open("../data/all_transactions.json", "w") as f:
             json.dump(all_results, f, indent=2)
         print(f"\nSaved to all_transactions.json")
 
