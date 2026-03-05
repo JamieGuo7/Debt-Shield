@@ -1,5 +1,5 @@
 # 🛡️ DebtShield
-> **Winner: Best Overall Hack** & **Best Financial Inclusion Hack** @ *Warwick Finance Societies Fintech Hackathon (2026)*
+> **Winner: Best Overall Hack** & **Best Financial Inclusion** @ *Warwick Finance Societies Fintech Hackathon (2026)*
 
 DebtShield is a web-based platform linked to a browser extension that integrates directly into the checkout process. This is designed to bridge the gap between impulsive spending and long-term financial health and targets at-risk users with rising debts. We built this during the Warwick Finance Societies Fintech Hackathon. 
 
